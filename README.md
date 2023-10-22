@@ -32,4 +32,4 @@ Possuo inglês avançado com ótima conversação, leitura, escrita e fala, cert
 <strong>Estatísticas</strong>
 
 ![henrique9576's Stats](https://github-readme-stats.vercel.app/api?username=henrique9576&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![henrique9576's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henriquekill9576&theme=tokyonight&hide_border=true)
+![henrique9576's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrique9576&theme=tokyonight&hide_border=true)
