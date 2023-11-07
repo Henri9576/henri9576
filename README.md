@@ -10,7 +10,7 @@ Possuo inglês avançado com ótima conversação, leitura, escrita e fala, cert
   
 <a href = ""> ![Whatsapp](https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=whatsapp&logoColor=white&labelColor=brightgreen&color=brightgreen)</a>
 <a href = ""> ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue)</a>
-<a href = "https://www.reddit.com/user/Henriquekill9576"> ![Reddit](https://img.shields.io/badge/Reddit-FF3A00?style=flat&logo=reddit&logoColor=white&labelColor=FF3A00&color=FF3A00)</a>
+<a href = ""> ![Reddit](https://img.shields.io/badge/Reddit-FF3A00?style=flat&logo=reddit&logoColor=white&labelColor=FF3A00&color=FF3A00)</a>
 
 <br>
 
