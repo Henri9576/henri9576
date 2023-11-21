@@ -4,13 +4,13 @@ Sou um desenvolvedor júnior a procura da primeira oportunidade profissional na 
 Estou cursando o nível superior em Sistemas de Informação na UNIP - Universidade Paulista.<br>
 Possuo inglês avançado com ótima conversação, leitura, escrita e fala, certificado pela EF SET no nível C2 Proficient.
   
-//<br>
+<!--<br>-->
 
-//<strong>Redes sociais</strong>
+<!--<strong>Redes sociais</strong>-->
   
-//<a href = ""> ![Whatsapp](https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=whatsapp&logoColor=white&labelColor=brightgreen&color=brightgreen)</a>
-//<a href = ""> ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue)</a>
-//<a href = ""> ![Reddit](https://img.shields.io/badge/Reddit-FF3A00?style=flat&logo=reddit&logoColor=white&labelColor=FF3A00&color=FF3A00)</a>
+<!--<a href = ""> ![Whatsapp](https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=whatsapp&logoColor=white&labelColor=brightgreen&color=brightgreen)</a>-->
+<!--<a href = ""> ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&color=blue)</a>-->
+<!--<a href = ""> ![Reddit](https://img.shields.io/badge/Reddit-FF3A00?style=flat&logo=reddit&logoColor=white&labelColor=FF3A00&color=FF3A00)</a>-->
 
 <br>
 
